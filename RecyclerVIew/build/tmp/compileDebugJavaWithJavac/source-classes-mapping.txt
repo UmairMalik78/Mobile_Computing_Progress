@@ -1,0 +1,9 @@
+com/umairmaik/recyclerview/CustomAdapter.java
+ com.umairmaik.recyclerview.CustomAdapter
+ com.umairmaik.recyclerview.CustomAdapter$ViewHolder
+com/umairmaik/recyclerview/MainActivity.java
+ com.umairmaik.recyclerview.MainActivity
+com/umairmaik/recyclerview/ModelClass.java
+ com.umairmaik.recyclerview.ModelClass
+com/umairmaik/recyclerview/BuildConfig.java
+ com.umairmaik.recyclerview.BuildConfig
